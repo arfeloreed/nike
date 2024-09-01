@@ -9,6 +9,7 @@ import {
   Footer,
 } from "./sections";
 import Navbar from "./components/Navbar";
+import ScrollToTopBtn from "./components/ScrollToTopBtn";
 
 function App() {
   return (
@@ -38,6 +39,8 @@ function App() {
       <section className="bg-black padding-x padding-t pb-8">
         <Footer />
       </section>
+
+      <ScrollToTopBtn />
     </main>
   );
 }
