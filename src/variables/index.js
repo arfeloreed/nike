@@ -10,7 +10,6 @@ import {
   bigShoe1,
   bigShoe2,
   bigShoe3,
-  customer1,
   customer2,
   shoe4,
   shoe5,
