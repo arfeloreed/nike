@@ -10,7 +10,6 @@ import {
   bigShoe1,
   bigShoe2,
   bigShoe3,
-  customer1,
   customer2,
   shoe4,
   shoe5,
@@ -93,11 +92,11 @@ export const services = [
 
 export const reviews = [
   {
-    imgURL: customer1,
-    customerName: "Morich Brown",
-    rating: 4.5,
+    imgURL: customer2,
+    customerName: "Reed Pogi",
+    rating: 4.7,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "Grabe, napakatibay talaga ng mga gawa ng nike. Pwde ipampalo pag may kaaway ka. Kaya I approved!",
   },
   {
     imgURL: customer2,
@@ -134,7 +133,7 @@ export const footerLinks = [
     title: "Get in touch",
     links: [
       { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "+639959813002", link: "mobile:+639959813002" },
     ],
   },
 ];
